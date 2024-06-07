@@ -3,7 +3,7 @@ const getR = express();
 const PORT = 3000;
 
 getR.get('/', (req, res) => {
-	res.send({"hello":"world"})
+	res.json({"hello":" Hello World"});
 })
 
 getR.listen(PORT, function (err) {

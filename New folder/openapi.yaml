@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Choreo0test
+  title: Choreotest
   description: >-
     This is a sample API specification for a simple reading list application with in-memory cache
     written in Nodejs
